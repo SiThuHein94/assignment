@@ -1,8 +1,8 @@
 # backend-server
-This application is running on port 3030, you can chage port numbet in .evn file.
+This application is running on port 3030, you can chage port number in .env file.
  
 ### Requirements
-For building and running the application you need:
+For building and running the application, you need:
 
 - npm
 - node
