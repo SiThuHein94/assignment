@@ -1,11 +1,11 @@
 import { Dashboard } from "./containers/dashboard"
-import { Navbar } from "./tools/navbar"
+// import { Navbar } from "./tools/navbar"
 
 function App() {
 
   return (
     <div className="custom-chart">
-      <Navbar/>
+      {/* <Navbar/> */}
       <Dashboard />
     </div>
   )

@@ -6,7 +6,7 @@ export const exportMultipleChartsToPdf=async()=> {
     const elements = document.getElementsByClassName("custom-chart"); 
   
     await creatPdf({ doc, elements }); 
-    doc.save(`charts.pdf`); 
+    doc.save(`ESG_Readings.pdf`); 
   }
 
   const creatPdf=async({
